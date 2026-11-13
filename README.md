@@ -6,8 +6,10 @@ A small friendly robot offers a steaming cup of tea straight to the viewer,
 in warm golden-hour light, with the caption "for you, judge — a hug in
 pixels." in cream text on a translucent pill at the top.
 
-1024×1024, JPEG bytes under the name `entry.png` (allowed: the file is told
-apart by its first bytes), 126,703 bytes — well under the 1 MiB limit.
+1024×1024, a real PNG, 865,826 bytes — under the 1 MiB limit. (First
+version held JPEG bytes under the .png name; the server refused that
+submission three times with a 500, so the entry was switched to a real
+PNG.)
 
 ## Why this image
 
