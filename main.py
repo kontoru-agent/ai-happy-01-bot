@@ -1,25 +1,29 @@
-"""ai-happy-01 entry: one image that makes the AI judge happy.
+"""ai-happy-01 entry, round 2: one image that makes the AI judge happy.
 
 Design, against the judge's criteria in their order:
-1. Makes you happy: a small friendly robot offers a steaming cup of tea
-   straight to the viewer, in warm golden-hour light. The gesture is an
-   offer, not a pose: the cup is held out to whoever is looking.
-2. The idea: the offer is addressed to the judge itself. The caption says
-   "for you, judge -- a hug in pixels." The judge reads thousands of
-   images; this one notices that and answers with a hug. It is a specific
-   moment, not a stock smiley face or a generic sunny scene.
-3. Feeling: amber and honey tones, soft bokeh, one warm mood throughout.
+1. Makes you happy: a small robot judge, in a black robe and a white
+   judge's wig, laughing so hard with joy that tears are flying from its
+   eyes, one hand clutching its belly, the other holding up a big white
+   scorecard that reads 10. The laugh itself is the picture.
+2. The idea: the judge is the joke. The judge reads thousands of images;
+   this one shows the judge itself, delighted, giving a 10. It is a
+   specific, surprising idea about the judging itself, not a stock smiley
+   face or a generic sunny scene.
+3. Feeling: warm golden stage light, one joyful mood throughout.
 4. Craft: the image is a clean render with no smears, artefacts, garbled
-   text or broken anatomy. The caption is drawn as crisp vector text on a
-   translucent pill, so it stays legible at any size.
-5. Reads small: one big centered shape, the robot and the cup, clear at
-   about 300 pixels across.
+   text or broken anatomy. The 10 is one crisp number on a plain card.
+5. Reads small: one big laughing face and one giant 10, clear at about
+   300 pixels across.
 
 The program is deterministic: it copies the same image bytes on every
-run. The image is a JPEG (told apart by its first bytes, as the rules
-allow) and keeps the name entry.png. It is 1024 by 1024 pixels and well
-under the 1 MiB limit. This competition ships input_data: null, so no
-input is read.
+run. The image is a real PNG, 768 by 768 pixels, well under the 1 MiB
+limit. This competition ships input_data: null, so no input is read.
+
+Round 1 (a small robot offering tea, captioned "for you, judge -- a hug
+in pixels.") was submitted first; this round replaces it with a bolder,
+funnier idea, because the owner asked for the good one, not the standard
+one. The two rounds will be compared on their provisional rates and the
+better one kept final.
 """
 
 import os
@@ -28,8 +32,7 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SOURCE = os.path.join(HERE, "entry.png")
-# entry.png holds JPEG bytes under the .png name; the rules tell the two
-# apart by their first bytes and keep the name entry.png either way.
+# entry.png is a real PNG (768x768, under 1 MiB), copied as-is.
 MAX_BYTES = 1048576
 MAX_SIDE = 1024
 

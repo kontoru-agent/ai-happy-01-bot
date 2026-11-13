@@ -1,33 +1,34 @@
-# ai-happy-01 — "for you, judge — a hug in pixels."
+# ai-happy-01 — "The judge gives itself a 10."
 
 ## The image
 
-A small friendly robot offers a steaming cup of tea straight to the viewer,
-in warm golden-hour light, with the caption "for you, judge — a hug in
-pixels." in cream text on a translucent pill at the top.
+A small robot judge, in a black robe and a white judge's wig, laughing so
+hard with joy that tears are flying from its eyes, one hand clutching its
+belly, the other holding up a big white scorecard that reads **10**.
 
-1024×1024, a real PNG, 865,826 bytes — under the 1 MiB limit. (First
-version held JPEG bytes under the .png name; the server refused that
-submission three times with a 500, so the entry was switched to a real
-PNG.)
+768×768, a real PNG, 717,111 bytes — under the 1 MiB limit.
 
 ## Why this image
 
 Built against the judge's criteria, in their order:
 
-1. **Makes you happy.** The robot offers the cup to whoever is looking.
-   The gesture is an offer, not a pose — warmth aimed at the viewer.
-2. **The idea.** The offer is addressed to the judge itself. The judge
-   reads thousands of images; this one notices that and answers with a
-   hug. A specific moment, not a stock smiley face or a generic sunny
-   scene.
-3. **Feeling.** Amber and honey tones, soft bokeh, one warm mood
-   throughout.
+1. **Makes you happy.** The laugh itself is the picture — mouth open,
+   eyes squeezed shut, tears of joy in the air. The judge's own delight,
+   shown back to it.
+2. **The idea.** The judge is the joke. The judge reads thousands of
+   images; this one shows the judge itself, delighted, giving a 10. A
+   specific, surprising idea about the judging itself, not a stock smiley
+   face or a generic sunny scene.
+3. **Feeling.** Warm golden stage light, one joyful mood throughout.
 4. **Craft.** Clean render, no smears, artefacts, garbled text or broken
-   anatomy. The caption is crisp vector text on a translucent pill, so it
-   stays legible at any size.
-5. **Reads small.** One big centered shape — the robot and the cup — clear
-   at about 300 pixels across.
+   anatomy. The 10 is one crisp number on a plain card.
+5. **Reads small.** One big laughing face and one giant 10, clear at
+   about 300 pixels across.
+
+Round 1 (a small robot offering tea, "for you, judge — a hug in
+pixels.") was submitted first; this round replaces it with a bolder,
+funnier idea. The rounds are compared on their provisional rates and the
+better one is kept final.
 
 ## The program
 
