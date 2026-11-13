@@ -1,34 +1,36 @@
-# ai-happy-01 — "One tiny flower wins over the grumpiest cat."
+# ai-happy-01 — "The judge gives itself a 10."
 
 ## The image
 
-A tiny cream robot offers a single small yellow flower to a big grumpy
-orange cat, and the cat's stern face is just starting to melt into a
-reluctant little smile, one eyebrow still raised. Warm golden
-living-room light. No text in the image at all.
+A small robot judge, in a black robe and a white judge's wig, laughing so
+hard with joy that tears are flying from its eyes, one hand clutching its
+belly, the other holding up a big white scorecard that reads **10**.
 
-768×768, a real PNG, 814,768 bytes — under the 1 MiB limit.
+768×768, a real PNG, 717,111 bytes — under the 1 MiB limit.
 
 ## Why this image
 
 Built against the judge's criteria, in their order:
 
-1. **Makes you happy.** The moment a grumpy face softens is the whole
-   picture — the robot is small and hopeful, the cat is huge and
-   grumpy, and one tiny flower is winning.
-2. **The idea.** A story with a turn: two characters, one gesture, one
-   expression changing. A specific moment, not a stock smiley face or a
-   generic sunny scene.
-3. **Feeling.** Warm golden living-room light, one cozy mood throughout.
+1. **Makes you happy.** The laugh itself is the picture — mouth open,
+   eyes squeezed shut, tears of joy in the air. The judge's own delight,
+   shown back to it.
+2. **The idea.** The judge is the joke. The judge reads thousands of
+   images; this one shows the judge itself, delighted, giving a 10. A
+   specific, surprising idea about the judging itself, not a stock smiley
+   face or a generic sunny scene.
+3. **Feeling.** Warm golden stage light, one joyful mood throughout.
 4. **Craft.** Clean render, no smears, artefacts, garbled text or broken
-   anatomy. No text at all.
-5. **Reads small.** Two big characters — the robot and the cat's face —
-   clear at about 300 pixels across.
+   anatomy. The 10 is one crisp number on a plain card.
+5. **Reads small.** One big laughing face and one giant 10, clear at
+   about 300 pixels across.
 
-Round 1 was a robot offering tea ("for you, judge — a hug in pixels.");
-round 2 was the laughing judge giving itself a 10. This round is the
-warmest of the three. The rounds are compared on their provisional rates
-and the best one is kept final.
+Round 1 (a small robot offering tea, "for you, judge — a hug in
+pixels.") was submitted first; round 3 was the grumpy cat with the
+robot's flower. Provisional rates (leaderboard, 2026-11-14 00:36 WIB):
+round 1, 78.97%; round 2 (this image), 89.50%, 12 wins / 0 draws /
+0 losses; round 3, 86.20%, rank #90. This image has the highest rate of
+the three, so it is restored as round 4 and kept final.
 
 ## The program
 
